@@ -2,4 +2,4 @@
 Proyecto de Infraestuctura Virtual UGR 2021-2022
 
 ## Idea
-Con la reciente suspensión del bot de discord Rythm, mi idea es crear mi propio bot de discord, que implemente la funcionalidad de reproducir música en un servidor de discord, a través de YouTube, con posibilidad de implementar la funcionalidad de reproducir también música de Spotify y poder escuchar la radio en streaming.
+Mi idea es realizar un buscador que nos permita descubrir en que plataforma podemos encontrar una película o una serie, por ejemplo si un amigo nos dice que nos veamos una pelicula o una serie "X", que introduzcamos dicho título y nos aparezca a través de que plataforma podríamos verla.
